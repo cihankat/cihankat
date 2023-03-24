@@ -2,7 +2,7 @@
 I am a Full Stack developer
 Skills: Python / REACT / JS / HTML / CSS / C# / PHP / MySQL
 
-🔭 I’m currently working on this page - cihankat.netlify.app
+🔭 I’m currently working on this page - [cihankat.netlify.app](https://cihankat.netlify.app)
 
 <!--
 **cihankat/cihankat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
