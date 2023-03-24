@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Cihan
+I am a Full Stack developer
+Skills: Python / REACT / JS / HTML / CSS / C# / PHP / MySQL
+
+🔭 I’m currently working on this page.
 
 <!--
 **cihankat/cihankat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
