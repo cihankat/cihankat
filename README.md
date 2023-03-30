@@ -1,6 +1,6 @@
 ### ⚡ Hi there 👋, my name is Cihan
-- 👯 I am a Full Stack developer in the making :)
-- 🌱 Skills: Python / REACT / JS / HTML / CSS / C# / PHP / MySQL
+- 👯 I am a Full Stack developer in the making :) an intern at Compu Factory! 
+- 🌱 Skills: Python / REACT / JS / HTML / CSS / C# / PHP / MySQL / Three.js
 
 🔭 I’m currently working on this page - [cihankat.netlify.app](https://cihankat.netlify.app)
 
