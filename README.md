@@ -1,4 +1,4 @@
-### ⚡ Hi there 👋, my name is Cihan
+### Hi there 👋, my name is Cihan
 - 👯 I am a Full Stack developer in the making :) an intern at Compu Factory! 
 - 🌱 Skills: Python / REACT / JS / HTML / CSS / C# / PHP / MySQL / Three.js
 
