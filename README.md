@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihankat&label=Profile%20views&color=0e75b6&style=flat" alt="cihankat" /> </p>
 
-- 🌱 I’m currently learning **Laravel and React Native**
+- 🌱 I’m currently learning **Laravel Filament**
 
 - 📫 How to reach me **cihankat2003@hotmail.com**
 
